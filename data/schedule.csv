@@ -1,0 +1,32 @@
+Activity_ID,WBS_ID,Activity_Name,Planned_Start,Planned_Finish,Duration_Days,Predecessor_Act,Is_Critical_Path,Float_Days
+A001,1.1,Site Clearing & Demolition,2023-01-02,2023-01-31,30,,True,0
+A002,1.1,Temporary Facilities Setup,2023-02-01,2023-02-20,20,A001,False,25
+A003,1.1,Erosion & Sediment Control,2023-02-06,2023-02-20,15,A001,False,8
+A004,1.2,Geotechnical Investigation & Piling,2023-02-01,2023-04-01,60,A001,True,0
+A005,1.2,Pile Cap Concrete,2023-04-07,2023-05-21,45,A004,True,0
+A006,1.2,Basement Retaining Walls,2023-06-01,2023-07-10,40,A005,True,0
+A007,1.2,Basement Slab-on-Grade,2023-07-16,2023-08-04,20,A006,True,0
+A008,1.3,Column & Core Wall Formwork – L1-L4,2023-08-05,2023-10-03,60,A007,True,0
+A009,1.3,Rebar Installation – L1-L4,2023-10-09,2023-11-22,45,A008,True,0
+A010,1.3,Concrete Pour – L1-L4,2023-11-28,2023-12-27,30,A009,True,0
+A011,1.3,Column & Core Wall – L5-L8,2023-12-28,2024-02-25,60,A010,True,0
+A012,1.3,Concrete Pour – L5-L8,2024-03-02,2024-03-31,30,A011,True,0
+A013,1.4,Structural Steel Erection – L1-L4,2023-12-28,2024-02-10,45,A010,True,0
+A014,1.4,Metal Deck Installation – L1-L4,2024-02-16,2024-03-16,30,A013,True,0
+A015,1.4,Structural Steel Erection – L5-Roof,2024-03-27,2024-05-10,45,A014,True,0
+A016,1.4,Metal Deck & Roof Framing,2024-05-16,2024-06-14,30,A015,False,5
+A017,1.5,Curtain Wall Fabrication & Delivery,2024-02-11,2024-04-10,60,A013,False,13
+A018,1.5,Curtain Wall Installation,2024-04-16,2024-07-14,90,A017,True,0
+A019,1.5,Roofing System,2024-06-25,2024-07-24,30,A016,False,12
+A020,1.6,MEP Coordination & BIM Clash Review,2024-03-17,2024-04-15,30,A014,False,12
+A021,1.6,Mechanical Ductwork Rough-In,2024-04-21,2024-07-19,90,A020,True,0
+A022,1.6,Electrical Conduit & Panel Rough-In,2024-04-21,2024-07-04,75,A020,False,9
+A023,1.6,Plumbing Rough-In,2024-04-21,2024-06-19,60,A020,False,8
+A024,1.6,Fire Protection Rough-In,2024-04-26,2024-06-09,45,A020,False,22
+A025,1.7,Drywall & Partitions,2024-07-20,2024-09-17,60,A021,True,0
+A026,1.7,Flooring & Ceiling Systems,2024-09-23,2024-11-11,50,A025,True,0
+A027,1.7,Painting & Wall Finishes,2024-11-17,2024-12-21,35,A026,False,7
+A028,1.7,"Doors, Frames & Hardware",2024-11-22,2024-12-16,25,A026,False,23
+A029,1.8,Systems Testing & Balancing,2024-11-12,2024-12-11,30,A026,True,0
+A030,1.8,Pre-Final Inspection & Punch List,2024-12-17,2025-01-05,20,A029,True,0
+A031,1.8,Final Inspection & Certificate of Occ,2025-01-11,2025-01-25,15,A030,True,0

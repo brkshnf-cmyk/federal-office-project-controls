@@ -1,0 +1,11 @@
+Risk_ID,WBS_ID,Category,Description,Probability,Impact,Status,Mitigation,Cost_Exposure_USD,Schedule_Exposure_Days,Identified_Date,Expected_Resolution,Risk_Type,Register_Status
+R001,1.2,Geotechnical,Undisclosed underground obstructions delay piling,High,High,Active,Engage geotechnical consultant; revise pile design,450000,30,2023-02-15,2023-04-01,Cost & Schedule,Open
+R002,1.3,Design,Structural drawing RFI delays concrete pours,Medium,Medium,Active,Expedite RFI response; daily design team calls,180000,14,2023-06-01,2023-08-01,Schedule,Open
+R003,1.4,Procurement,Structural steel delivery lead time extension (supply chain),High,Medium,Active,Pre-order steel; identify alternate suppliers,220000,21,2023-08-01,2023-10-01,Schedule,Open
+R004,1.5,Procurement,Curtain wall fabrication delay due to overseas manufacturer,High,High,Active,Advance procurement; weekly status calls with vendor,380000,45,2023-10-01,2024-01-01,Cost & Schedule,Open
+R005,1.6,Coordination,MEP clash conflicts require rework after rough-in,Medium,High,Active,Enforce BIM coordination reviews before installation,150000,10,2024-01-15,2024-03-01,Cost,Open
+R006,1.1,Safety,Contaminated soil discovered during site clearing,Low,High,Mitigated,Soil remediation completed; disposed per EPA standards,95000,7,2023-01-15,2023-02-28,Cost,Closed
+R007,1.3,Quality,Concrete compressive strength below spec on Level 3 pour,Low,High,Mitigated,Core sampling and remedial grouting completed,60000,5,2023-08-20,2023-09-10,Cost,Closed
+R008,1.7,Scope,Owner requests additional conference room fit-out (scope creep),Medium,Medium,Active,Change order submitted; pending owner approval,210000,12,2024-06-01,2024-07-15,Cost & Schedule,Open
+R009,1.8,Regulatory,Certificate of Occupancy delay due to fire marshal backlog,Medium,Low,Watch,Engage fire marshal early; pre-inspection scheduled,0,20,2024-11-01,2024-12-15,Schedule,Open
+R010,1.6,Labor,Electrician trade shortage causing resource constraint,Medium,Medium,Active,Engage second electrical subcontractor,120000,15,2024-02-01,2024-04-01,Schedule,Open

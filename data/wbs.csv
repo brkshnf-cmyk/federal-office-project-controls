@@ -1,0 +1,10 @@
+WBS_ID,Parent_WBS,Work_Package,WBS_Level,BAC,CSI_Code,Planned_Start,Planned_Finish
+1,,Potomac Federal Office Building,1,45000000,,2023-01-02,2024-12-27
+1.1,1,Mobilization & Site Preparation,2,1800000,01 50 00,2023-01-02,2023-03-31
+1.2,1,Deep Foundations & Basement,2,5400000,03 10 00,2023-02-01,2023-06-30
+1.3,1,Structural Concrete Frame,2,9000000,03 30 00,2023-05-01,2023-11-30
+1.4,1,Structural Steel & Metal Deck,2,7200000,05 10 00,2023-09-01,2024-02-29
+1.5,1,Building Envelope,2,6300000,07 40 00,2023-11-01,2024-05-31
+1.6,1,MEP Rough-In,2,7650000,23 00 00,2024-01-01,2024-08-31
+1.7,1,Interior Finishes & Fit-Out,2,5850000,09 00 00,2024-06-01,2024-11-30
+1.8,1,Commissioning & Closeout,2,1800000,01 70 00,2024-10-01,2024-12-27

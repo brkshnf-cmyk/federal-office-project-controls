@@ -1,0 +1,11 @@
+CO_Number,WBS_ID,Category,Description,Submitted_Date,Approved_Date,Status,Cost_Impact_USD,Schedule_Impact_Days,Cause,Resolution_Notes
+CO-001,1.2,Geotechnical,Additional piling due to undisclosed obstructions,2023-03-10,2023-04-05,Approved,412000,28,Owner directed,Geotechnical report updated
+CO-002,1.1,Environmental,Contaminated soil removal and disposal,2023-01-28,2023-02-20,Approved,88000,5,Unforeseen condition,EPA compliance required
+CO-003,1.3,Design,Revised rebar layout Level 5-8 per structural RFI,2023-09-01,2023-10-01,Approved,145000,10,Design error,Drawing revision R3 issued
+CO-004,1.4,Procurement,Structural steel escalation — supplier surcharge,2023-10-15,2023-11-10,Approved,198000,0,Market condition,Price escalation clause invoked
+CO-005,1.5,Design,Curtain wall system upgrade — Owner value engineering,2023-12-01,2024-01-15,Approved,275000,15,Owner requested,Enhanced performance specification
+CO-006,1.6,Coordination,MEP rerouting due to structural interference,2024-02-10,2024-03-05,Approved,132000,8,Design coordination,BIM clash resolved; reroute approved
+CO-007,1.7,Scope,Additional executive conference rooms – 3rd floor,2024-06-05,,Pending,210000,12,Owner requested,Awaiting owner approval
+CO-008,1.3,Quality,Remedial grouting Level 3 slab — low-strength cores,2023-09-05,2023-09-25,Approved,55000,4,Quality nonconformance,Core test results documented
+CO-009,1.6,Scope,EV charging station rough-in added to parking structure,2024-03-01,2024-04-10,Approved,78000,6,Owner requested,Sustainability initiative
+CO-010,1.8,Regulatory,Enhanced commissioning per updated GSA requirements,2024-09-01,,Pending,65000,5,Regulatory,New GSA standards effective Q4 2024
