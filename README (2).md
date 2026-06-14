@@ -212,7 +212,7 @@ The EVM methodology follows **ANSI/EIA-748** standards as applied in federal pro
 ## Author
 
 **Brook Weldegebriel**
-Civil Engineer | Project Controls Analyst | Data Analyst
+Data Analyst | Project Controls Analyst | Civil Engineer
 
 - GitHub: [github.com/brkshnf-cmyk](https://github.com/brkshnf-cmyk)
 - Email: brookms2023@gmail.com
